@@ -1,0 +1,18 @@
+# Gameplay
+- [ ] - Fighting charts
+- [ ] - Character assets
+  - [ ] - Sinco
+  - [ ] - Osin
+  - [ ] - TJ
+  - [ ] - Tirok
+  - [ ] - Portilizen
+  - [ ] - STCS
+  - [ ] - Eggy
+- [ ] - Character movesets
+  - [ ] - Sinco
+  - [ ] - Osin
+  - [ ] - TJ
+  - [ ] - Tirok
+  - [ ] - Portilizen
+  - [ ] - STCS
+  - [ ] - Eggy
