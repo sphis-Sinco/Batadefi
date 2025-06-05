@@ -23,4 +23,14 @@ class PlayState extends MusicState
 	{
 		super.update(elapsed);
 	}
+	override function beatHit()
+	{
+		super.beatHit();
+
+		if (this.curBeat == this.SONG_JSON.end_beat)
+		{
+			trace('End of song');
+			FlxG.resetState();
+		}
+	}
 }
