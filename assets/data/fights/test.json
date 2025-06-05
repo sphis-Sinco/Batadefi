@@ -1,0 +1,35 @@
+{
+  "name": "Test Track",
+  "bpm": 120.0,
+  "end_beat": 4,
+  "attacks": [
+    {
+      "beat": 1,
+      "step": 1,
+      "event": "test_event_1",
+      "succeed_event": "succeed_1",
+      "fail_event": "fail_1"
+    },
+    {
+      "beat": 2,
+      "step": 2,
+      "event": "test_event_2",
+      "succeed_event": "succeed_2",
+      "fail_event": "fail_2"
+    },
+    {
+      "beat": 3,
+      "step": 3,
+      "event": "test_event_3",
+      "succeed_event": "succeed_3",
+      "fail_event": "fail_3"
+    },
+    {
+      "beat": 4,
+      "step": 4,
+      "event": "test_event_4",
+      "succeed_event": "succeed_4",
+      "fail_event": "fail_4"
+    }
+  ]
+}

@@ -7,6 +7,8 @@ typedef Song =
 {
 	var name:String;
 	var bpm:Float;
+	var end_beat:Int;
+        
 	var attacks:Array<AttackData>;
 }
 
