@@ -3,7 +3,7 @@ package music;
 /**
  * Song JSON
  */
-typedef Song =
+typedef Fight =
 {
 	var name:String;
 	var bpm:Float;

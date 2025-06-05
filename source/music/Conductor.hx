@@ -71,7 +71,7 @@ class Conductor
 	 * This just sets `bpmChangeMap` so that all the bpm events are tracked
 	 * @param song the song you are getting the bpmChangeMap from
 	 */
-	public static function mapBPMChanges(song:Song):Void
+	public static function mapBPMChanges(song:Fight):Void
 	{
 		bpmChangeMap = [];
 
